@@ -1,0 +1,64 @@
+C:\Users\mmurshed\Desktop\Bookstore\Bookstore\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.deps.json
+C:\Users\mmurshed\Desktop\Bookstore\Bookstore\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.runtimeconfig.json
+C:\Users\mmurshed\Desktop\Bookstore\Bookstore\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.runtimeconfig.dev.json
+C:\Users\mmurshed\Desktop\Bookstore\Bookstore\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.dll
+C:\Users\mmurshed\Desktop\Bookstore\Bookstore\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.pdb
+C:\Users\mmurshed\Desktop\Bookstore\Bookstore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.csprojAssemblyReference.cache
+C:\Users\mmurshed\Desktop\Bookstore\Bookstore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\mmurshed\Desktop\Bookstore\Bookstore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.AssemblyInfoInputs.cache
+C:\Users\mmurshed\Desktop\Bookstore\Bookstore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.AssemblyInfo.cs
+C:\Users\mmurshed\Desktop\Bookstore\Bookstore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.dll
+C:\Users\mmurshed\Desktop\Bookstore\Bookstore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.pdb
+C:\Users\mmurshed\Desktop\SODV1101_Assignment01_Bookstore\Bookstore\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.deps.json
+C:\Users\mmurshed\Desktop\SODV1101_Assignment01_Bookstore\Bookstore\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.runtimeconfig.json
+C:\Users\mmurshed\Desktop\SODV1101_Assignment01_Bookstore\Bookstore\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.runtimeconfig.dev.json
+C:\Users\mmurshed\Desktop\SODV1101_Assignment01_Bookstore\Bookstore\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.dll
+C:\Users\mmurshed\Desktop\SODV1101_Assignment01_Bookstore\Bookstore\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.pdb
+C:\Users\mmurshed\Desktop\SODV1101_Assignment01_Bookstore\Bookstore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.csprojAssemblyReference.cache
+C:\Users\mmurshed\Desktop\SODV1101_Assignment01_Bookstore\Bookstore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\mmurshed\Desktop\SODV1101_Assignment01_Bookstore\Bookstore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.AssemblyInfoInputs.cache
+C:\Users\mmurshed\Desktop\SODV1101_Assignment01_Bookstore\Bookstore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.AssemblyInfo.cs
+C:\Users\mmurshed\Desktop\SODV1101_Assignment01_Bookstore\Bookstore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.dll
+C:\Users\mmurshed\Desktop\SODV1101_Assignment01_Bookstore\Bookstore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.pdb
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_07\Assignment_01\Bookstore\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.deps.json
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_07\Assignment_01\Bookstore\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.runtimeconfig.json
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_07\Assignment_01\Bookstore\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.runtimeconfig.dev.json
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_07\Assignment_01\Bookstore\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.dll
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_07\Assignment_01\Bookstore\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.pdb
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_07\Assignment_01\Bookstore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.csprojAssemblyReference.cache
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_07\Assignment_01\Bookstore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_07\Assignment_01\Bookstore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.AssemblyInfoInputs.cache
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_07\Assignment_01\Bookstore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.AssemblyInfo.cs
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_07\Assignment_01\Bookstore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.dll
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_07\Assignment_01\Bookstore\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.pdb
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_07\Assignment_01\Template\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.csprojAssemblyReference.cache
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_07\Assignment_01\Template\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_07\Assignment_01\Template\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.AssemblyInfoInputs.cache
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_07\Assignment_01\Template\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.AssemblyInfo.cs
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_07\Assignment_01\Template\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.dll
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_07\Assignment_01\Template\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.pdb
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_07\Assignment_01\Template\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.deps.json
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_07\Assignment_01\Template\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.runtimeconfig.json
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_07\Assignment_01\Template\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.runtimeconfig.dev.json
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_07\Assignment_01\Template\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.dll
+C:\Users\mmurshed\Desktop\SODV1202_Lectures\Lecture_07\Assignment_01\Template\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.pdb
+E:\computer science\oop\assignment 1\Program 1\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.deps.json
+E:\computer science\oop\assignment 1\Program 1\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.runtimeconfig.json
+E:\computer science\oop\assignment 1\Program 1\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.runtimeconfig.dev.json
+E:\computer science\oop\assignment 1\Program 1\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.dll
+E:\computer science\oop\assignment 1\Program 1\Bookstore\bin\Debug\netcoreapp2.1\Bookstore.pdb
+E:\computer science\oop\assignment 1\Program 1\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.csproj.AssemblyReference.cache
+E:\computer science\oop\assignment 1\Program 1\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+E:\computer science\oop\assignment 1\Program 1\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.AssemblyInfoInputs.cache
+E:\computer science\oop\assignment 1\Program 1\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.AssemblyInfo.cs
+E:\computer science\oop\assignment 1\Program 1\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.csproj.CoreCompileInputs.cache
+E:\computer science\oop\assignment 1\Program 1\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.dll
+E:\computer science\oop\assignment 1\Program 1\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.pdb
+E:\computer science\oop\assignment 1\Program 1\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.genruntimeconfig.cache
+E:\computer science\oop\assignment 1\assignment 1\Program 1\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.csproj.AssemblyReference.cache
+E:\computer science\oop\assignment 1\assignment 1\Program 1\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+E:\computer science\oop\assignment 1\assignment 1\Program 1\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.AssemblyInfoInputs.cache
+E:\computer science\oop\assignment 1\assignment 1\Program 1\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.AssemblyInfo.cs
+E:\computer science\oop\assignment 1\assignment 1\Program 1\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.csproj.CoreCompileInputs.cache
+E:\computer science\oop\assignment 1\assignment 1\Program 1\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.dll
+E:\computer science\oop\assignment 1\assignment 1\Program 1\Bookstore\obj\Debug\netcoreapp2.1\Bookstore.pdb

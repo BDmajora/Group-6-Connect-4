@@ -1,0 +1,13 @@
+E:\computer science\oop\Group project\ConnectFourProject\bin\Debug\netcoreapp2.1\Connect4.deps.json
+E:\computer science\oop\Group project\ConnectFourProject\bin\Debug\netcoreapp2.1\Connect4.runtimeconfig.json
+E:\computer science\oop\Group project\ConnectFourProject\bin\Debug\netcoreapp2.1\Connect4.runtimeconfig.dev.json
+E:\computer science\oop\Group project\ConnectFourProject\bin\Debug\netcoreapp2.1\Connect4.dll
+E:\computer science\oop\Group project\ConnectFourProject\bin\Debug\netcoreapp2.1\Connect4.pdb
+E:\computer science\oop\Group project\ConnectFourProject\obj\Debug\netcoreapp2.1\Connect4.csproj.AssemblyReference.cache
+E:\computer science\oop\Group project\ConnectFourProject\obj\Debug\netcoreapp2.1\Connect4.GeneratedMSBuildEditorConfig.editorconfig
+E:\computer science\oop\Group project\ConnectFourProject\obj\Debug\netcoreapp2.1\Connect4.AssemblyInfoInputs.cache
+E:\computer science\oop\Group project\ConnectFourProject\obj\Debug\netcoreapp2.1\Connect4.AssemblyInfo.cs
+E:\computer science\oop\Group project\ConnectFourProject\obj\Debug\netcoreapp2.1\Connect4.csproj.CoreCompileInputs.cache
+E:\computer science\oop\Group project\ConnectFourProject\obj\Debug\netcoreapp2.1\Connect4.dll
+E:\computer science\oop\Group project\ConnectFourProject\obj\Debug\netcoreapp2.1\Connect4.pdb
+E:\computer science\oop\Group project\ConnectFourProject\obj\Debug\netcoreapp2.1\Connect4.genruntimeconfig.cache
