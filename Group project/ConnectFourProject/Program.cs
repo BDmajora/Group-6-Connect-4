@@ -1,4 +1,4 @@
-﻿//Group 6
+//Group 6
 //Connect 4 Command Line C#
 
 using System;
@@ -7,73 +7,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-public struct playerInfo
+namespace Connect4
 {
-	public String playerName;
+public class TremblingMinds {
+public class playerInfo
+{
+	public string playerName;
 	public char playerID;
 };
 
-namespace Connect4
+class MainClass
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            playerInfo playerOne = new playerInfo();
-            playerInfo playerTwo = new playerInfo();
-            char[,] board = new char[9, 10];  
-	        int dropChoice, win, full, again;
-
-	        Console.WriteLine("Let's Play Connect 4");
-	        Console.WriteLine("Player One please enter your name: ");
-	        playerOne.playerName = Console.ReadLine();
-	        playerOne.playerID = 'X';
-	        Console.WriteLine("Player Two please enter your name: ");
-	        playerTwo.playerName = Console.ReadLine();
-	        playerTwo.playerID = 'O';
-	
-	        full = 0;
-	        win = 0;
-	        again = 0;
-	        DisplayBoard( board );
-	        do
-	        {
-		        dropChoice = PlayerDrop( board, playerOne );
-		        CheckBellow( board, playerOne, dropChoice );
-		        DisplayBoard( board );
-		        win = CheckFour( board, playerOne );
-		        if ( win == 1 )
-		        {
-			        PlayerWin(playerOne);
-			        again = restart(board);
-			        if (again == 2)
-			        {
-				        break;
-			        }
-		        }
-
-		        dropChoice = PlayerDrop( board, playerTwo );
-		        CheckBellow( board, playerTwo, dropChoice );
-		        DisplayBoard( board );
-		        win = CheckFour( board, playerTwo );
-		        if ( win == 1 )
-		        {
-			        PlayerWin(playerTwo);
-			        again = restart(board);
-			        if (again == 2)
-			        {
-				        break;
-			        }
-		        }
-		        full = FullBoard( board );
-		        if ( full == 7 )
-		        {
-			        Console.WriteLine( "The board is full, it is a draw!" );
-			        again = restart(board);
-		        }
-
-	        }while ( again != 2 );
-        }
 static int PlayerDrop( char[,] board, playerInfo activePlayer )
 {
 	int dropChoice;
@@ -93,6 +37,7 @@ static int PlayerDrop( char[,] board, playerInfo activePlayer )
 
 return dropChoice;
 }
+
 
 static void CheckBellow ( char[,] board, playerInfo activePlayer, int dropChoice )
 {
@@ -114,6 +59,7 @@ static void CheckBellow ( char[,] board, playerInfo activePlayer, int dropChoice
 
 }
 
+
 static void DisplayBoard ( char[,] board )
 {
 	int rows = 6, columns = 7, i, ix;
@@ -134,6 +80,8 @@ static void DisplayBoard ( char[,] board )
 	}
 
 }
+
+
 
 static int CheckFour ( char[,] board, playerInfo activePlayer )
 {
@@ -196,6 +144,7 @@ static int CheckFour ( char[,] board, playerInfo activePlayer )
 return win;
 }
 
+
 static int FullBoard( char[,] board )
 {
 	int full;
@@ -209,13 +158,17 @@ static int FullBoard( char[,] board )
 return full;
 }
 
+
 static void PlayerWin ( playerInfo activePlayer )
 {
 	Console.WriteLine( activePlayer.playerName + " Connected Four, You Win!" );
 }
 
+
+
 static int restart ( char[,] board )
 {
+	
 	int restart;
 
 	Console.WriteLine("Would you like to restart? Yes(1) No(2): ");
@@ -234,7 +187,70 @@ static int restart ( char[,] board )
 		Console.WriteLine("Goodbye!");
 return restart;
 }
+	
 
 
+class Program 
+		{
+        static void Main(string[] args)
+        {
+            playerInfo playerOne = new playerInfo();
+            playerInfo playerTwo = new playerInfo();
+            char[,] board = new char[9, 10];  
+	        int dropChoice, win, full, again;
+
+	        Console.WriteLine("Let's Play Connect 4");
+	        Console.WriteLine("Player One please enter your name: ");
+	        playerOne.playerName = Console.ReadLine();
+	        playerOne.playerID = 'X';
+	        Console.WriteLine("Player Two please enter your name: ");
+	        playerTwo.playerName = Console.ReadLine();
+	        playerTwo.playerID = 'O';
+	
+	        full = 0;
+	        win = 0;
+	        again = 0;
+	        DisplayBoard( board );
+	        do
+	        {
+		        dropChoice = PlayerDrop( board, playerOne );
+		        CheckBellow( board, playerOne, dropChoice );
+		       DisplayBoard( board );
+		        win = CheckFour( board, playerOne );
+		        if ( win == 1 )
+		        {
+			        PlayerWin(playerOne);
+			        again = restart(board);
+			        if (again == 2)
+			        {
+				        break;
+			        }
+		        }
+
+		        dropChoice = PlayerDrop( board, playerTwo );
+		        CheckBellow( board, playerTwo, dropChoice );
+		        DisplayBoard( board );
+		        win = CheckFour( board, playerTwo );
+		        if ( win == 1 )
+		        {
+			        PlayerWin(playerTwo);
+			        again = restart(board);
+			        if (again == 2)
+			        {
+				        break;
+			        }
+		        }
+		        full = FullBoard( board );
+		        if ( full == 7 )
+		        {
+			        Console.WriteLine( "The board is full, it is a draw!" );
+			        again = restart(board);
+		        }
+
+	        }while ( again != 2 );
+        }
+		}
+
+}
      }
 }
