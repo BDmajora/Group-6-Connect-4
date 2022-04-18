@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Connect4
 {
-public class TremblingMinds {
+public class VideoGame {
 public class playerInfo
 {
 	public string playerName;
